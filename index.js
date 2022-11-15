@@ -112,7 +112,7 @@ local.addEventListener('click', () => {
         local.href = 'https://goo.gl/maps/2RNYbifqw5AeBmB88'
 
     if (roles[count] === 'China Sushi?') 
-        local.href = 'https://goo.gl/maps/KnxsY9AXD4ke2grn9A'
+        local.href = 'https://goo.gl/maps/KnxsY9AXD4ke2grn9'
 
     if (roles[count] === 'Made In Japan Sushi?') 
         local.href = 'https://g.page/madeinjapanceilandia?share'
