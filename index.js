@@ -19,7 +19,7 @@ var roles = [
     'Pizza Cesar?',
     'Major?',
     'BK?',
-    'Galo Zé - Frango Frito?',
+    'Galo Zé Frango Frito?',
     'China Sushi?',
     'Made In Japan Sushi?',
     'Jerônimo?',
@@ -108,7 +108,7 @@ local.addEventListener('click', () => {
     if (roles[count] === 'BK?') 
         local.href = 'https://goo.gl/maps/J4UJT5WrFGha2jrn8'
 
-    if (roles[count] === 'Galo Zé - Frango Frito?') 
+    if (roles[count] === 'Galo Zé Frango Frito?') 
         local.href = 'https://goo.gl/maps/2RNYbifqw5AeBmB88'
 
     if (roles[count] === 'China Sushi?') 
